@@ -1,0 +1,1 @@
+Remova metadados com segurança 
